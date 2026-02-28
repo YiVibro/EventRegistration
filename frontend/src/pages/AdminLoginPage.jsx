@@ -117,7 +117,7 @@ export default function AdminLoginPage() {
 
           <div className="mt-8 p-3 bg-ink-950 border border-surface-border rounded-lg">
             <p className="text-xs font-mono text-ink-600 text-center">
-              Powered By:Yishith Vilas & Likhith Gowda
+              Skill lab
             </p>
           </div>
         </div>
