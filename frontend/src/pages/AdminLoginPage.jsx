@@ -64,7 +64,7 @@ export default function AdminLoginPage() {
             <Input
               label="Email Address"
               type="email"
-              placeholder="admin@eventsphere.edu"
+              placeholder=""
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               autoComplete="email"
@@ -117,7 +117,7 @@ export default function AdminLoginPage() {
 
           <div className="mt-8 p-3 bg-ink-950 border border-surface-border rounded-lg">
             <p className="text-xs font-mono text-ink-600 text-center">
-              Default: admin@eventsphere.edu / Admin@1234
+              Powered By:Yishith Vilas & Likhith Gowda
             </p>
           </div>
         </div>
